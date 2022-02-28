@@ -1,5 +1,5 @@
 # reservation management system using Laravel 6.0 and Auth0!
-============================================================
+======
 
 
 ### build and secure a travel manager CRUD application with Laravel and authentication with Auth0.
